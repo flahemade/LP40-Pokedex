@@ -8,7 +8,7 @@
             <link rel="stylesheet" href="css/style.css">
         </head>
         <body>
-            <h1 class="box">Pokedex</h1>
+            <h1 class="box"><img src="img/pokeball.png" alt="pokeball"/>Pokedex</h1>
             <div class="clear"></div>
             <div class="interface box">
                 <div class="list col_40 box">
