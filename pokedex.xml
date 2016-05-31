@@ -1,39 +1,76 @@
-<?xml version="1.0"?>
-<Tests>
-  <Test TestId="0001" TestType="CMD">
-    <Name>Convert number to string</Name>
-    <CommandLine>Examp1.EXE</CommandLine>
-    <Input>1</Input>
-    <Output>One</Output>
-  </Test>
-  <Test TestId="0002" TestType="CMD">
-    <Name>Find succeeding characters</Name>
-    <CommandLine>Examp2.EXE</CommandLine>
-    <Input>abc</Input>
-    <Output>def</Output>
-  </Test>
-  <Test TestId="0003" TestType="GUI">
-    <Name>Convert multiple numbers to strings</Name>
-    <CommandLine>Examp2.EXE /Verbose</CommandLine>
-    <Input>123</Input>
-    <Output>One Two Three</Output>
-  </Test>
-  <Test TestId="0004" TestType="GUI">
-    <Name>Find correlated key</Name>
-    <CommandLine>Examp3.EXE</CommandLine>
-    <Input>a1</Input>
-    <Output>b1</Output>
-  </Test>
-  <Test TestId="0005" TestType="GUI">
-    <Name>Count characters</Name>
-    <CommandLine>FinalExamp.EXE</CommandLine>
-    <Input>This is a test</Input>
-    <Output>14</Output>
-  </Test>
-  <Test TestId="0006" TestType="GUI">
-    <Name>Another Test</Name>
-    <CommandLine>Examp2.EXE</CommandLine>
-    <Input>Test Input</Input>
-    <Output>10</Output>
-  </Test>
-</Tests>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE pokedex SYSTEM "pokedex.dtd">
+<pokedex>
+    <pokemon id="001">
+        <nom>Bulbizarre</nom>
+        <image/>
+        <types>
+            <type>Plante</type>
+            <type>Poison</type>
+        </types>
+        <taille>0.7 m</taille>
+        <poids>6.9 kg</poids>
+        <taux_capture>45</taux_capture>
+        <experience_max>1059860</experience_max>
+        <bonheur>70</bonheur>
+        <evolutions>
+            <evolution>Herbizarre</evolution>
+        </evolutions>
+        <attaques/>
+        <description>La graine sur le dos de Bulbizarre est une réserve de nutriments. Il la fait doucement pousser en absorbant les rayons du soleil, et emmagasine de l'énergie dedans en vue de son évolution. S'il dépense trop souvent son énergie, il n'évoluera pas car l'ouverture de son bulbe dépend de ses réserves de nutriments.</description>
+        <points_de_vie_valeur>45</points_de_vie_valeur>
+        <attaque_valeur>49</attaque_valeur>
+        <defense_valeur>49</defense_valeur>
+        <attaqueSpe_valeur>65</attaqueSpe_valeur>
+        <defenseSpe_valeur>65</defenseSpe_valeur>
+        <vitesse_Valeur>45</vitesse_Valeur>
+    </pokemon>
+    <pokemon id="002">
+        <nom>Herbizarre</nom>
+        <image/>
+        <types>
+            <type>Plante</type>
+            <type>Poison</type>
+        </types>
+        <taille>1.0 m</taille>
+        <poids>13.0 kg</poids>
+        <taux_capture>45</taux_capture>
+        <experience_max>1059860</experience_max>
+        <bonheur>70</bonheur>
+        <evolutions>
+            <evolution>Florizarre</evolution>
+        </evolutions>
+        <attaques/>
+        <description>Le bulbe sur le dos de Herbizarre a éclos, dévoilant ainsi une fleur fermée. Plus il passe de temps au soleil, plus sa fleur se prépare à s'ouvrir, et quelques temps avant son évolution, il dégage une douce odeur fruitée. Attention à ses Tranch'herbes et à ses Fouets lianes.</description>
+        <points_de_vie_valeur>60</points_de_vie_valeur>
+        <attaque_valeur>62</attaque_valeur>
+        <defense_valeur>63</defense_valeur>
+        <attaqueSpe_valeur>80</attaqueSpe_valeur>
+        <defenseSpe_valeur>80</defenseSpe_valeur>
+        <vitesse_Valeur>60</vitesse_Valeur>
+    </pokemon>
+    <pokemon id="003">
+        <nom>Florizarre</nom>
+        <image/>
+        <types>
+            <type>Plante</type>
+            <type>Poison</type>
+        </types>
+        <taille>2.0 m</taille>
+        <poids>100.0 kg</poids>
+        <taux_capture>45</taux_capture>
+        <experience_max>1059860</experience_max>
+        <bonheur>70</bonheur>
+        <evolutions>
+            <evolution>Pas d'évolution</evolution>
+        </evolutions>
+        <attaques/>
+        <description>Comme un panneau solaire, les pétales de la fleur de Florizarre transforment les rayons du soleil en énergie. Il est maître d'un troupeau de Herbizarre et de Bulbizarre, qu'il garde férocement. L'odeur se dégageant de sa fleur est exquise, mais mieux vaut ne pas s'approcher d'un Florizarre sauvage et de sa horde.</description>
+        <points_de_vie_valeur>80</points_de_vie_valeur>
+        <attaque_valeur>82</attaque_valeur>
+        <defense_valeur>83</defense_valeur>
+        <attaqueSpe_valeur>100</attaqueSpe_valeur>
+        <defenseSpe_valeur>100</defenseSpe_valeur>
+        <vitesse_Valeur>80</vitesse_Valeur>
+    </pokemon>
+</pokedex>

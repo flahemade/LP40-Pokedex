@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!ELEMENT pokedex (pokemon+)>
+
+<!ELEMENT pokemon (nom,image,types,taille,poids,taux_capture,experience_max,bonheur,evolution,attaques,
+					description,points_de_vie_valeur,attaque_valeur,defense_valeur,attaqueSpe_valeur,
+					defenseSpe_valeur,vitesse_valeur)>
+<!ATTLIST pokemon id CDATA #REQUIRED>
+
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+<!ELEMENT types (type+)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT taille (#PCDATA)>
+<!ELEMENT poids (#PCDATA)>
+<!ELEMENT taux_capture (#PCDATA)>
+<!ELEMENT experience_max (#PCDATA)>
+<!ELEMENT bonheur (#PCDATA)>
+<!ELEMENT evolution (#PCDATA)>
+
+<!ELEMENT attaques (attaque+)>
+<!ELEMENT attaque (nom,type,puissance,precision,classe,pp,description)>
+<!ELEMENT puissance (#PCDATA)>
+<!ELEMENT precision (#PCDATA)>
+<!ELEMENT classe (#PCDATA)>
+<!ELEMENT pp (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+
+<!ELEMENT points_de_vie_valeur (#PCDATA)>
+<!ELEMENT attaque_valeur (#PCDATA)>
+<!ELEMENT defense_valeur (#PCDATA)>
+<!ELEMENT attaqueSpe_valeur (#PCDATA)>
+<!ELEMENT defenseSpe_valeur (#PCDATA)>
+<!ELEMENT vitesse_valeur (#PCDATA)>
