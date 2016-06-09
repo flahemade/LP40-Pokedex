@@ -5,8 +5,10 @@
         </head>
         <body>
         	<?php
+        		/** Récupération de l'ID avec la méthode POST **/
         		$id= $_POST['id'];
 
+        		/** OUverture du xml et recherche du pokemon **/
         		$pokedex = new DomDocument();
         		$pokedex->validateOnParse = true;
     			$pokedex->load('pokedex.xml');
@@ -78,6 +80,5 @@
         	?> 
         
         </body>
-
 
 	</html>
