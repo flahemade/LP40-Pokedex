@@ -77,6 +77,9 @@
 
         		/** Vitesse **/
         		echo "<span id='vitesse_valeur'>Vitesse : ".$pokemon->getElementsByTagName("vitesse_valeur")->item(0)->nodeValue."</span></br>";
+
+        		/** Lien retour **/
+        		echo "</br><a href='index.php'><b>Retour<b></a></br>";
         	?> 
         
         </body>
