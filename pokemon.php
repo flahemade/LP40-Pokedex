@@ -80,6 +80,7 @@
 
         		/** Localisation du pokemon **/
         		echo "<form action='location.php' method='POST'>";
+                echo "<b>Google Maps pokemon challenge : </b>";
         		echo "<input type='hidden' name='id' value='".$pokemon->getAttribute("id")."' />";
                 echo "<input type='submit' value='Localisation de ".$pokemon->getElementsByTagName("nom")->item(0)->nodeValue."'/></form>";
 

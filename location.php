@@ -23,7 +23,11 @@
         <!-- Fonction d'initialisation -->
         <script type="text/javascript">
             function initialisation() {
-                var location = new google.maps.LatLng(24.735477, -77.894509);
+
+                var latitude = '<?php echo $pokemon->getElementsByTagName("latitude")->item(0)->nodeValue; ?>';
+                var longitude = '<?php echo $pokemon->getElementsByTagName("longitude")->item(0)->nodeValue; ?>';
+
+                var location = new google.maps.LatLng(latitude, longitude);
                 
                 // Options d'affichage de la carte
                 var options = {
@@ -38,33 +42,20 @@
                 // Récupération du nom du pokémon par insertion de php
                 var pokemon = '<?php echo $pokemon->getElementsByTagName("nom")->item(0)->nodeValue; ?>';
 
-                // Les infos afficher
+                // Les infos affichées
                 var infowindow = new google.maps.InfoWindow({
                     content: "<div class='infoWindow'>Ici c'est "+pokemon+" </div>"
-                });
-    			
-    			var infowindow2 = new google.maps.InfoWindow({
-                    content: "<div class='infoWindow'>L'arêne</div>"
                 });
 
                 // Les marqeurs
                 var marker = new google.maps.Marker({
-                    position: new google.maps.LatLng(24.763449, -78.311040),
-                    map: map
-                });
-    			
-    			var marker2 = new google.maps.Marker({
-                    position: new google.maps.LatLng(25.041190, -77.350337),
+                    position: new google.maps.LatLng(latitude, longitude),
                     map: map
                 });
 
-                // Ajout des d'evénement lors du clic sur un marqueur
+                // Ajout des evénements lors du clic sur un marqueur
                 google.maps.event.addListener(marker, 'click', function() {
                     infowindow.open(map,marker);
-                });
-    			
-    			google.maps.event.addListener(marker2, 'click', function() {
-                    infowindow2.open(map,marker2);
                 });
             }
         </script>

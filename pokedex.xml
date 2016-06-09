@@ -22,6 +22,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>65</defenseSpe_valeur>
         <vitesse_valeur>45</vitesse_valeur>
+        <latitude>37.423697</latitude>
+        <longitude>-122.090617</longitude>
     </pokemon>
     <pokemon id="002">
         <nom>Herbizarre</nom>
@@ -44,6 +46,8 @@
         <attaqueSpe_valeur>80</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>60</vitesse_valeur>
+        <latitude>37.770115</latitude>
+        <longitude>-122.470428</longitude>
     </pokemon>
     <pokemon id="003">
         <nom>Florizarre</nom>
@@ -66,6 +70,8 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>100</defenseSpe_valeur>
         <vitesse_valeur>80</vitesse_valeur>
+        <latitude>53.53226</latitude>
+        <longitude>-113.505583</longitude>
     </pokemon>
     <pokemon id="004">
         <nom>Salameche</nom>
@@ -87,6 +93,8 @@
         <attaqueSpe_valeur>60</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>65</vitesse_valeur>
+        <latitude>34.379822</latitude>
+        <longitude>132.45041</longitude>
     </pokemon>
     <pokemon id="005">
         <nom>Reptincel</nom>
@@ -108,6 +116,8 @@
         <attaqueSpe_valeur>80</attaqueSpe_valeur>
         <defenseSpe_valeur>65</defenseSpe_valeur>
         <vitesse_valeur>80</vitesse_valeur>
+        <latitude>-0.364455</latitude>
+        <longitude>-91.561621</longitude>
     </pokemon>
     <pokemon id="006">
         <nom>Dracaufeu</nom>
@@ -130,6 +140,8 @@
         <attaqueSpe_valeur>109</attaqueSpe_valeur>
         <defenseSpe_valeur>85</defenseSpe_valeur>
         <vitesse_valeur>100</vitesse_valeur>
+        <latitude>-19.528127</latitude>
+        <longitude>169.447793</longitude>
     </pokemon>
     <pokemon id="007">
         <nom>Carapuce</nom>
@@ -151,6 +163,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>64</defenseSpe_valeur>
         <vitesse_valeur>43</vitesse_valeur>
+        <latitude>35.659158</latitude>
+        <longitude>139.729254</longitude>
     </pokemon>
     <pokemon id="008">
         <nom>Carabaffe</nom>
@@ -172,6 +186,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>58</vitesse_valeur>
+        <latitude>51.505432</latitude>
+        <longitude>-0.166364</longitude>
     </pokemon>
     <pokemon id="009">
         <nom>Tortank</nom>
@@ -193,6 +209,8 @@
         <attaqueSpe_valeur>85</attaqueSpe_valeur>
         <defenseSpe_valeur>105</defenseSpe_valeur>
         <vitesse_valeur>78</vitesse_valeur>
+        <latitude>-0.607383</latitude>
+        <longitude>-90.178757</longitude>
     </pokemon>
     <pokemon id="010">
         <nom>Chenipan</nom>
@@ -214,6 +232,8 @@
         <attaqueSpe_valeur>20</attaqueSpe_valeur>
         <defenseSpe_valeur>20</defenseSpe_valeur>
         <vitesse_valeur>45</vitesse_valeur>
+        <latitude>43.642764</latitude>
+        <longitude>-79.386679</longitude>
     </pokemon>
     <pokemon id="011">
         <nom>Chrysacier</nom>
@@ -235,6 +255,8 @@
         <attaqueSpe_valeur>25</attaqueSpe_valeur>
         <defenseSpe_valeur>25</defenseSpe_valeur>
         <vitesse_valeur>30</vitesse_valeur>
+        <latitude>46.23087</latitude>
+        <longitude>6.046052</longitude>
     </pokemon>
     <pokemon id="012">
         <nom>Papilusion</nom>
@@ -257,6 +279,8 @@
         <attaqueSpe_valeur>90</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>46.228531</latitude>
+        <longitude>6.043166</longitude>
     </pokemon>
     <pokemon id="013">
         <nom>Aspicot</nom>
@@ -279,6 +303,8 @@
         <attaqueSpe_valeur>20</attaqueSpe_valeur>
         <defenseSpe_valeur>20</defenseSpe_valeur>
         <vitesse_valeur>50</vitesse_valeur>
+        <latitude>42.339573</latitude>
+        <longitude>-83.074921</longitude>
     </pokemon>
     <pokemon id="014">
         <nom>Coconfort</nom>
@@ -301,6 +327,8 @@
         <attaqueSpe_valeur>25</attaqueSpe_valeur>
         <defenseSpe_valeur>25</defenseSpe_valeur>
         <vitesse_valeur>35</vitesse_valeur>
+        <latitude>43.07004</latitude>
+        <longitude>-89.415611</longitude>
     </pokemon>
     <pokemon id="015">
         <nom>Dardargnan</nom>
@@ -323,6 +351,8 @@
         <attaqueSpe_valeur>45</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>75</vitesse_valeur>
+        <latitude>47.608659</latitude>
+        <longitude>-122.345104</longitude>
     </pokemon>
     <pokemon id="016">
         <nom>Roucool</nom>
@@ -345,6 +375,8 @@
         <attaqueSpe_valeur>35</attaqueSpe_valeur>
         <defenseSpe_valeur>35</defenseSpe_valeur>
         <vitesse_valeur>56</vitesse_valeur>
+        <latitude>33.407889</latitude>
+        <longitude>-104.55906</longitude>
     </pokemon>
     <pokemon id="017">
         <nom>Roucoups</nom>
@@ -367,6 +399,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>71</vitesse_valeur>
+        <latitude>32.081335</latitude>
+        <longitude>34.76234</longitude>
     </pokemon>
     <pokemon id="018">
         <nom>Roucarnage</nom>
@@ -389,6 +423,8 @@
         <attaqueSpe_valeur>70</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>101</vitesse_valeur>
+        <latitude>43.10552</latitude>
+        <longitude>-89.421286</longitude>
     </pokemon>
     <pokemon id="019">
         <nom>Rattata</nom>
@@ -410,6 +446,8 @@
         <attaqueSpe_valeur>25</attaqueSpe_valeur>
         <defenseSpe_valeur>35</defenseSpe_valeur>
         <vitesse_valeur>72</vitesse_valeur>
+        <latitude>40.829956</latitude>
+        <longitude>-73.92651</longitude>
     </pokemon>
     <pokemon id="020">
         <nom>Rattatac</nom>
@@ -431,6 +469,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>97</vitesse_valeur>
+        <latitude>25.131382</latitude>
+        <longitude>55.108941</longitude>
     </pokemon>
     <pokemon id="021">
         <nom>Piafabec</nom>
@@ -453,6 +493,8 @@
         <attaqueSpe_valeur>31</attaqueSpe_valeur>
         <defenseSpe_valeur>31</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>34.045546</latitude>
+        <longitude>-118.268984</longitude>
     </pokemon>
     <pokemon id="022">
         <nom>Rapasdepic</nom>
@@ -475,6 +517,8 @@
         <attaqueSpe_valeur>61</attaqueSpe_valeur>
         <defenseSpe_valeur>61</defenseSpe_valeur>
         <vitesse_valeur>100</vitesse_valeur>
+        <latitude>-33.910283</latitude>
+        <longitude>151.207846</longitude>
     </pokemon>
     <pokemon id="023">
         <nom>Abo</nom>
@@ -496,6 +540,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>54</defenseSpe_valeur>
         <vitesse_valeur>55</vitesse_valeur>
+        <latitude>37.756165</latitude>
+        <longitude>140.453988</longitude>
     </pokemon>
     <pokemon id="024">
         <nom>Arbok</nom>
@@ -517,6 +563,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>79</defenseSpe_valeur>
         <vitesse_valeur>80</vitesse_valeur>
+        <latitude>41.901926</latitude>
+        <longitude>12.455729</longitude>
     </pokemon>
     <pokemon id="025">
         <nom>Pikachu</nom>
@@ -538,6 +586,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>37.420683</latitude>
+        <longitude>-122.087049</longitude>
     </pokemon>
     <pokemon id="026">
         <nom>Raichu</nom>
@@ -559,6 +609,8 @@
         <attaqueSpe_valeur>90</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>110</vitesse_valeur>
+        <latitude>37.492054</latitude>
+        <longitude>-122.170873</longitude>
     </pokemon>
     <pokemon id="027">
         <nom>Sabelette</nom>
@@ -580,6 +632,8 @@
         <attaqueSpe_valeur>20</attaqueSpe_valeur>
         <defenseSpe_valeur>30</defenseSpe_valeur>
         <vitesse_valeur>40</vitesse_valeur>
+        <latitude>29.720045</latitude>
+        <longitude>-95.389474</longitude>
     </pokemon>
     <pokemon id="028">
         <nom>Sablaireau</nom>
@@ -601,6 +655,8 @@
         <attaqueSpe_valeur>45</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>65</vitesse_valeur>
+        <latitude>38.89906</latitude>
+        <longitude>-77.03673</longitude>
     </pokemon>
     <pokemon id="029">
         <nom>Nidoran</nom>
@@ -622,6 +678,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>40</defenseSpe_valeur>
         <vitesse_valeur>41</vitesse_valeur>
+        <latitude>31.592997</latitude>
+        <longitude>130.667881</longitude>
     </pokemon>
     <pokemon id="030">
         <nom>Nidorina</nom>
@@ -643,6 +701,8 @@
         <attaqueSpe_valeur>55</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>56</vitesse_valeur>
+        <latitude>43.728709</latitude>
+        <longitude>7.412939</longitude>
     </pokemon>
     <pokemon id="031">
         <nom>Nidoqueen</nom>
@@ -665,6 +725,8 @@
         <attaqueSpe_valeur>75</attaqueSpe_valeur>
         <defenseSpe_valeur>85</defenseSpe_valeur>
         <vitesse_valeur>76</vitesse_valeur>
+        <latitude>-6.126247</latitude>
+        <longitude>105.381656</longitude>
     </pokemon>
     <pokemon id="032">
         <nom>Nidoran</nom>
@@ -686,6 +748,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>40</defenseSpe_valeur>
         <vitesse_valeur>50</vitesse_valeur>
+        <latitude>36.618332</latitude>
+        <longitude>-121.901969</longitude>
     </pokemon>
     <pokemon id="033">
         <nom>Nidorino</nom>
@@ -707,6 +771,8 @@
         <attaqueSpe_valeur>55</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>65</vitesse_valeur>
+        <latitude>37.422391</latitude>
+        <longitude>-122.178099</longitude>
     </pokemon>
     <pokemon id="034">
         <nom>Nidoking</nom>
@@ -729,6 +795,8 @@
         <attaqueSpe_valeur>85</attaqueSpe_valeur>
         <defenseSpe_valeur>75</defenseSpe_valeur>
         <vitesse_valeur>85</vitesse_valeur>
+        <latitude>-12.190539</latitude>
+        <longitude>96.871683</longitude>
     </pokemon>
     <pokemon id="035">
         <nom>Melofee</nom>
@@ -750,6 +818,8 @@
         <attaqueSpe_valeur>60</attaqueSpe_valeur>
         <defenseSpe_valeur>65</defenseSpe_valeur>
         <vitesse_valeur>35</vitesse_valeur>
+        <latitude>35.661057</latitude>
+        <longitude>139.731281</longitude>
     </pokemon>
     <pokemon id="036">
         <nom>Melodelfe</nom>
@@ -771,6 +841,8 @@
         <attaqueSpe_valeur>95</attaqueSpe_valeur>
         <defenseSpe_valeur>90</defenseSpe_valeur>
         <vitesse_valeur>60</vitesse_valeur>
+        <latitude>46.241013</latitude>
+        <longitude>6.040882</longitude>
     </pokemon>
     <pokemon id="037">
         <nom>Goupix</nom>
@@ -792,6 +864,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>65</defenseSpe_valeur>
         <vitesse_valeur>65</vitesse_valeur>
+        <latitude>41.402245</latitude>
+        <longitude>2.169073</longitude>
     </pokemon>
     <pokemon id="038">
         <nom>Feunard</nom>
@@ -813,6 +887,8 @@
         <attaqueSpe_valeur>81</attaqueSpe_valeur>
         <defenseSpe_valeur>100</defenseSpe_valeur>
         <vitesse_valeur>100</vitesse_valeur>
+        <latitude>46.234746</latitude>
+        <longitude>6.063245</longitude>
     </pokemon>
     <pokemon id="039">
         <nom>Rondoudou</nom>
@@ -835,6 +911,8 @@
         <attaqueSpe_valeur>45</attaqueSpe_valeur>
         <defenseSpe_valeur>25</defenseSpe_valeur>
         <vitesse_valeur>20</vitesse_valeur>
+        <latitude>42.945043</latitude>
+        <longitude>-122.115616</longitude>
     </pokemon>
     <pokemon id="040">
         <nom>Grodoudou</nom>
@@ -857,6 +935,8 @@
         <attaqueSpe_valeur>85</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>45</vitesse_valeur>
+        <latitude>51.897988</latitude>
+        <longitude>-8.473706</longitude>
     </pokemon>
     <pokemon id="041">
         <nom>Nosferapti</nom>
@@ -879,6 +959,8 @@
         <attaqueSpe_valeur>30</attaqueSpe_valeur>
         <defenseSpe_valeur>40</defenseSpe_valeur>
         <vitesse_valeur>55</vitesse_valeur>
+        <latitude>36.630139</latitude>
+        <longitude>138.183798</longitude>
     </pokemon>
     <pokemon id="042">
         <nom>Nosferalto</nom>
@@ -901,6 +983,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>75</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>-3.131764</latitude>
+        <longitude>-60.029744</longitude>
     </pokemon>
     <pokemon id="043">
         <nom>Mystherbe</nom>
@@ -923,6 +1007,8 @@
         <attaqueSpe_valeur>75</attaqueSpe_valeur>
         <defenseSpe_valeur>65</defenseSpe_valeur>
         <vitesse_valeur>30</vitesse_valeur>
+        <latitude>-34.600381</latitude>
+        <longitude>-58.363949</longitude>
     </pokemon>
     <pokemon id="044">
         <nom>Ortide</nom>
@@ -945,6 +1031,8 @@
         <attaqueSpe_valeur>85</attaqueSpe_valeur>
         <defenseSpe_valeur>75</defenseSpe_valeur>
         <vitesse_valeur>40</vitesse_valeur>
+        <latitude>55.851476</latitude>
+        <longitude>-4.294427</longitude>
     </pokemon>
     <pokemon id="045">
         <nom>Rafflesia</nom>
@@ -967,6 +1055,8 @@
         <attaqueSpe_valeur>110</attaqueSpe_valeur>
         <defenseSpe_valeur>90</defenseSpe_valeur>
         <vitesse_valeur>50</vitesse_valeur>
+        <latitude>42.275957</latitude>
+        <longitude>-83.745416</longitude>
     </pokemon>
     <pokemon id="046">
         <nom>Paras</nom>
@@ -989,6 +1079,8 @@
         <attaqueSpe_valeur>45</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>25</vitesse_valeur>
+        <latitude>30.281192</latitude>
+        <longitude>-97.734636</longitude>
     </pokemon>
     <pokemon id="047">
         <nom>Parasect</nom>
@@ -1011,6 +1103,8 @@
         <attaqueSpe_valeur>60</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>30</vitesse_valeur>
+        <latitude>47.918963</latitude>
+        <longitude>106.898554</longitude>
     </pokemon>
     <pokemon id="048">
         <nom>Mimitoss</nom>
@@ -1033,6 +1127,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>45</vitesse_valeur>
+        <latitude>-0.747168</latitude>
+        <longitude>-90.449293</longitude>
     </pokemon>
     <pokemon id="049">
         <nom>Aeromite</nom>
@@ -1055,6 +1151,8 @@
         <attaqueSpe_valeur>90</attaqueSpe_valeur>
         <defenseSpe_valeur>75</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>48.872995</latitude>
+        <longitude>2.293678</longitude>
     </pokemon>
     <pokemon id="050">
         <nom>Taupiqueur</nom>
@@ -1076,6 +1174,8 @@
         <attaqueSpe_valeur>35</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>95</vitesse_valeur>
+        <latitude>-0.700788</latitude>
+        <longitude>-90.206741</longitude>
     </pokemon>
     <pokemon id="051">
         <nom>Triopikeur</nom>
@@ -1097,6 +1197,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>120</vitesse_valeur>
+        <latitude>47.645396</latitude>
+        <longitude>-122.335523</longitude>
     </pokemon>
     <pokemon id="052">
         <nom>Miaouss</nom>
@@ -1118,6 +1220,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>40</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>35.638426</latitude>
+        <longitude>139.719364</longitude>
     </pokemon>
     <pokemon id="053">
         <nom>Persian</nom>
@@ -1139,6 +1243,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>65</defenseSpe_valeur>
         <vitesse_valeur>115</vitesse_valeur>
+        <latitude>-0.684431</latitude>
+        <longitude>-90.332513</longitude>
     </pokemon>
     <pokemon id="054">
         <nom>Psykokwak</nom>
@@ -1160,6 +1266,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>55</vitesse_valeur>
+        <latitude>40.820978</latitude>
+        <longitude>14.424819</longitude>
     </pokemon>
     <pokemon id="055">
         <nom>Akwakwak</nom>
@@ -1181,6 +1289,8 @@
         <attaqueSpe_valeur>95</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>85</vitesse_valeur>
+        <latitude>46.218597</latitude>
+        <longitude>-122.193715</longitude>
     </pokemon>
     <pokemon id="056">
         <nom>Ferosinge</nom>
@@ -1202,6 +1312,8 @@
         <attaqueSpe_valeur>35</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>37.749986</latitude>
+        <longitude>14.998729</longitude>
     </pokemon>
     <pokemon id="057">
         <nom>Colossinge</nom>
@@ -1223,6 +1335,8 @@
         <attaqueSpe_valeur>60</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>95</vitesse_valeur>
+        <latitude>35.680985</latitude>
+        <longitude>139.760967</longitude>
     </pokemon>
     <pokemon id="058">
         <nom>Caninos</nom>
@@ -1244,6 +1358,8 @@
         <attaqueSpe_valeur>70</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>60</vitesse_valeur>
+        <latitude>-33.808925</latitude>
+        <longitude>151.285066</longitude>
     </pokemon>
     <pokemon id="059">
         <nom>Arcanin</nom>
@@ -1265,6 +1381,8 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>95</vitesse_valeur>
+        <latitude>-33.911523</latitude>
+        <longitude>151.189742</longitude>
     </pokemon>
     <pokemon id="060">
         <nom>Ptitard</nom>
@@ -1286,6 +1404,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>40</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>37.435807</latitude>
+        <longitude>-122.119754</longitude>
     </pokemon>
     <pokemon id="061">
         <nom>Tetarte</nom>
@@ -1307,6 +1427,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>54.617214</latitude>
+        <longitude>-5.89974</longitude>
     </pokemon>
     <pokemon id="062">
         <nom>Tartard</nom>
@@ -1329,6 +1451,8 @@
         <attaqueSpe_valeur>70</attaqueSpe_valeur>
         <defenseSpe_valeur>90</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>49.21118</latitude>
+        <longitude>-123.205028</longitude>
     </pokemon>
     <pokemon id="063">
         <nom>Abra</nom>
@@ -1350,6 +1474,8 @@
         <attaqueSpe_valeur>105</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>37.418633</latitude>
+        <longitude>-122.078536</longitude>
     </pokemon>
     <pokemon id="064">
         <nom>Kadabra</nom>
@@ -1371,6 +1497,8 @@
         <attaqueSpe_valeur>120</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>105</vitesse_valeur>
+        <latitude>24.546113</latitude>
+        <longitude>-81.79909</longitude>
     </pokemon>
     <pokemon id="065">
         <nom>Alakazam</nom>
@@ -1392,6 +1520,8 @@
         <attaqueSpe_valeur>135</attaqueSpe_valeur>
         <defenseSpe_valeur>95</defenseSpe_valeur>
         <vitesse_valeur>120</vitesse_valeur>
+        <latitude>3.128852</latitude>
+        <longitude>101.690389</longitude>
     </pokemon>
     <pokemon id="066">
         <nom>Machoc</nom>
@@ -1413,6 +1543,8 @@
         <attaqueSpe_valeur>35</attaqueSpe_valeur>
         <defenseSpe_valeur>35</defenseSpe_valeur>
         <vitesse_valeur>35</vitesse_valeur>
+        <latitude>14.584889</latitude>
+        <longitude>120.992801</longitude>
     </pokemon>
     <pokemon id="067">
         <nom>Machopeur</nom>
@@ -1434,6 +1566,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>60</defenseSpe_valeur>
         <vitesse_valeur>45</vitesse_valeur>
+        <latitude>39.050714</latitude>
+        <longitude>-84.429943</longitude>
     </pokemon>
     <pokemon id="068">
         <nom>Mackogneur</nom>
@@ -1455,6 +1589,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>85</defenseSpe_valeur>
         <vitesse_valeur>55</vitesse_valeur>
+        <latitude>46.216623</latitude>
+        <longitude>6.044694</longitude>
     </pokemon>
     <pokemon id="069">
         <nom>Chetiflor</nom>
@@ -1477,6 +1613,8 @@
         <attaqueSpe_valeur>70</attaqueSpe_valeur>
         <defenseSpe_valeur>30</defenseSpe_valeur>
         <vitesse_valeur>40</vitesse_valeur>
+        <latitude>55.692623</latitude>
+        <longitude>12.59999</longitude>
     </pokemon>
     <pokemon id="070">
         <nom>Boustiflor</nom>
@@ -1499,6 +1637,8 @@
         <attaqueSpe_valeur>85</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>55</vitesse_valeur>
+        <latitude>37.720718</latitude>
+        <longitude>-122.495646</longitude>
     </pokemon>
     <pokemon id="071">
         <nom>Empiflor</nom>
@@ -1521,6 +1661,8 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>41.840593</latitude>
+        <longitude>-87.697535</longitude>
     </pokemon>
     <pokemon id="072">
         <nom>Tentacool</nom>
@@ -1543,6 +1685,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>100</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>-0.583031</latitude>
+        <longitude>-90.163476</longitude>
     </pokemon>
     <pokemon id="073">
         <nom>Tentacruel</nom>
@@ -1565,6 +1709,8 @@
         <attaqueSpe_valeur>80</attaqueSpe_valeur>
         <defenseSpe_valeur>120</defenseSpe_valeur>
         <vitesse_valeur>100</vitesse_valeur>
+        <latitude>39.902905</latitude>
+        <longitude>-75.186001</longitude>
     </pokemon>
     <pokemon id="074">
         <nom>Racaillou</nom>
@@ -1587,6 +1733,8 @@
         <attaqueSpe_valeur>30</attaqueSpe_valeur>
         <defenseSpe_valeur>30</defenseSpe_valeur>
         <vitesse_valeur>20</vitesse_valeur>
+        <latitude>37.425856</latitude>
+        <longitude>-122.070965</longitude>
     </pokemon>
     <pokemon id="075">
         <nom>Gravalanch</nom>
@@ -1609,6 +1757,8 @@
         <attaqueSpe_valeur>45</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>35</vitesse_valeur>
+        <latitude>37.42401</latitude>
+        <longitude>-122.092502</longitude>
     </pokemon>
     <pokemon id="076">
         <nom>Grolem</nom>
@@ -1631,6 +1781,8 @@
         <attaqueSpe_valeur>55</attaqueSpe_valeur>
         <defenseSpe_valeur>65</defenseSpe_valeur>
         <vitesse_valeur>45</vitesse_valeur>
+        <latitude>-2.254174</latitude>
+        <longitude>-63.15445</longitude>
     </pokemon>
     <pokemon id="077">
         <nom>Ponyta</nom>
@@ -1652,6 +1804,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>65</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>35.642969</latitude>
+        <longitude>139.860028</longitude>
     </pokemon>
     <pokemon id="078">
         <nom>Galopa</nom>
@@ -1673,6 +1827,8 @@
         <attaqueSpe_valeur>80</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>105</vitesse_valeur>
+        <latitude>35.651249</latitude>
+        <longitude>139.725142</longitude>
     </pokemon>
     <pokemon id="079">
         <nom>Ramoloss</nom>
@@ -1695,6 +1851,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>40</defenseSpe_valeur>
         <vitesse_valeur>15</vitesse_valeur>
+        <latitude>-3.066481</latitude>
+        <longitude>37.350596</longitude>
     </pokemon>
     <pokemon id="080">
         <nom>Flagadoss</nom>
@@ -1717,6 +1875,8 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>30</vitesse_valeur>
+        <latitude>35.734713</latitude>
+        <longitude>139.713012</longitude>
     </pokemon>
     <pokemon id="081">
         <nom>Magneti</nom>
@@ -1739,6 +1899,8 @@
         <attaqueSpe_valeur>95</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>45</vitesse_valeur>
+        <latitude>35.631513</latitude>
+        <longitude>139.755764</longitude>
     </pokemon>
     <pokemon id="082">
         <nom>Magneton</nom>
@@ -1761,6 +1923,8 @@
         <attaqueSpe_valeur>120</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>37.721917</latitude>
+        <longitude>-122.378945</longitude>
     </pokemon>
     <pokemon id="083">
         <nom>Canarticho</nom>
@@ -1783,6 +1947,8 @@
         <attaqueSpe_valeur>58</attaqueSpe_valeur>
         <defenseSpe_valeur>62</defenseSpe_valeur>
         <vitesse_valeur>60</vitesse_valeur>
+        <latitude>-0.865837</latitude>
+        <longitude>-90.776599</longitude>
     </pokemon>
     <pokemon id="084">
         <nom>Doduo</nom>
@@ -1805,6 +1971,8 @@
         <attaqueSpe_valeur>35</attaqueSpe_valeur>
         <defenseSpe_valeur>35</defenseSpe_valeur>
         <vitesse_valeur>75</vitesse_valeur>
+        <latitude>37.779914</latitude>
+        <longitude>-122.514286</longitude>
     </pokemon>
     <pokemon id="085">
         <nom>Dodrio</nom>
@@ -1827,6 +1995,8 @@
         <attaqueSpe_valeur>60</attaqueSpe_valeur>
         <defenseSpe_valeur>60</defenseSpe_valeur>
         <vitesse_valeur>100</vitesse_valeur>
+        <latitude>-13.16389</latitude>
+        <longitude>-72.544545</longitude>
     </pokemon>
     <pokemon id="086">
         <nom>Otaria</nom>
@@ -1848,6 +2018,8 @@
         <attaqueSpe_valeur>45</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>45</vitesse_valeur>
+        <latitude>37.420312</latitude>
+        <longitude>-122.084249</longitude>
     </pokemon>
     <pokemon id="087">
         <nom>Lamantine</nom>
@@ -1870,6 +2042,8 @@
         <attaqueSpe_valeur>70</attaqueSpe_valeur>
         <defenseSpe_valeur>95</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>40.107537</latitude>
+        <longitude>-88.229994</longitude>
     </pokemon>
     <pokemon id="088">
         <nom>Tadmorv</nom>
@@ -1891,6 +2065,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>25</vitesse_valeur>
+        <latitude>37.414362</latitude>
+        <longitude>-122.077332</longitude>
     </pokemon>
     <pokemon id="089">
         <nom>Grotadmorv</nom>
@@ -1912,6 +2088,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>100</defenseSpe_valeur>
         <vitesse_valeur>50</vitesse_valeur>
+        <latitude>37.437396</latitude>
+        <longitude>-122.092515</longitude>
     </pokemon>
     <pokemon id="090">
         <nom>Kokiyas</nom>
@@ -1933,6 +2111,8 @@
         <attaqueSpe_valeur>45</attaqueSpe_valeur>
         <defenseSpe_valeur>25</defenseSpe_valeur>
         <vitesse_valeur>40</vitesse_valeur>
+        <latitude>40.690164</latitude>
+        <longitude>-74.047004</longitude>
     </pokemon>
     <pokemon id="091">
         <nom>Crustabri</nom>
@@ -1955,6 +2135,8 @@
         <attaqueSpe_valeur>85</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>-33.856537</latitude>
+        <longitude>151.210992</longitude>
     </pokemon>
     <pokemon id="092">
         <nom>Fantominus</nom>
@@ -1977,6 +2159,8 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>35</defenseSpe_valeur>
         <vitesse_valeur>80</vitesse_valeur>
+        <latitude>48.833461</latitude>
+        <longitude>2.331985</longitude>
     </pokemon>
     <pokemon id="093">
         <nom>Spectrum</nom>
@@ -1999,6 +2183,8 @@
         <attaqueSpe_valeur>115</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>95</vitesse_valeur>
+        <latitude>25.729945</latitude>
+        <longitude>32.613596</longitude>
     </pokemon>
     <pokemon id="094">
         <nom>Ectoplasma</nom>
@@ -2021,6 +2207,8 @@
         <attaqueSpe_valeur>130</attaqueSpe_valeur>
         <defenseSpe_valeur>75</defenseSpe_valeur>
         <vitesse_valeur>110</vitesse_valeur>
+        <latitude>40.748157</latitude>
+        <longitude>-73.986953</longitude>
     </pokemon>
     <pokemon id="095">
         <nom>Onix</nom>
@@ -2043,6 +2231,8 @@
         <attaqueSpe_valeur>30</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>27.180284</latitude>
+        <longitude>78.039364</longitude>
     </pokemon>
     <pokemon id="096">
         <nom>Soporifik</nom>
@@ -2064,6 +2254,8 @@
         <attaqueSpe_valeur>43</attaqueSpe_valeur>
         <defenseSpe_valeur>90</defenseSpe_valeur>
         <vitesse_valeur>42</vitesse_valeur>
+        <latitude>35.657514</latitude>
+        <longitude>139.732448</longitude>
     </pokemon>
     <pokemon id="097">
         <nom>Hypnomade</nom>
@@ -2085,6 +2277,8 @@
         <attaqueSpe_valeur>73</attaqueSpe_valeur>
         <defenseSpe_valeur>115</defenseSpe_valeur>
         <vitesse_valeur>67</vitesse_valeur>
+        <latitude>35.644525</latitude>
+        <longitude>139.681694</longitude>
     </pokemon>
     <pokemon id="098">
         <nom>Krabby</nom>
@@ -2106,6 +2300,8 @@
         <attaqueSpe_valeur>25</attaqueSpe_valeur>
         <defenseSpe_valeur>25</defenseSpe_valeur>
         <vitesse_valeur>50</vitesse_valeur>
+        <latitude>27.986182</latitude>
+        <longitude>86.921478</longitude>
     </pokemon>
     <pokemon id="099">
         <nom>Krabboss</nom>
@@ -2127,6 +2323,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>75</vitesse_valeur>
+        <latitude>50.058242</latitude>
+        <longitude>-122.968599</longitude>
     </pokemon>
     <pokemon id="100">
         <nom>Voltorbe</nom>
@@ -2148,6 +2346,8 @@
         <attaqueSpe_valeur>55</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>100</vitesse_valeur>
+        <latitude>42.360175</latitude>
+        <longitude>-71.09406</longitude>
     </pokemon>
     <pokemon id="101">
         <nom>Electrode</nom>
@@ -2169,6 +2369,8 @@
         <attaqueSpe_valeur>80</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>140</vitesse_valeur>
+        <latitude>31.785038</latitude>
+        <longitude>35.234088</longitude>
     </pokemon>
     <pokemon id="102">
         <nom>Noeunoeuf</nom>
@@ -2191,6 +2393,8 @@
         <attaqueSpe_valeur>60</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>40</vitesse_valeur>
+        <latitude>51.477368</latitude>
+        <longitude>0.002293</longitude>
     </pokemon>
     <pokemon id="103">
         <nom>Noadkoko</nom>
@@ -2213,6 +2417,8 @@
         <attaqueSpe_valeur>125</attaqueSpe_valeur>
         <defenseSpe_valeur>65</defenseSpe_valeur>
         <vitesse_valeur>55</vitesse_valeur>
+        <latitude>40.78152</latitude>
+        <longitude>-73.966956</longitude>
     </pokemon>
     <pokemon id="104">
         <nom>Osselait</nom>
@@ -2234,6 +2440,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>35</vitesse_valeur>
+        <latitude>44.842414</latitude>
+        <longitude>-0.576695</longitude>
     </pokemon>
     <pokemon id="105">
         <nom>Ossatueur</nom>
@@ -2255,6 +2463,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>45</vitesse_valeur>
+        <latitude>35.028292</latitude>
+        <longitude>-111.018525</longitude>
     </pokemon>
     <pokemon id="106">
         <nom>Kicklee</nom>
@@ -2276,6 +2486,8 @@
         <attaqueSpe_valeur>35</attaqueSpe_valeur>
         <defenseSpe_valeur>110</defenseSpe_valeur>
         <vitesse_valeur>87</vitesse_valeur>
+        <latitude>31.75767</latitude>
+        <longitude>-102.487883</longitude>
     </pokemon>
     <pokemon id="107">
         <nom>Tygnon</nom>
@@ -2297,6 +2509,8 @@
         <attaqueSpe_valeur>35</attaqueSpe_valeur>
         <defenseSpe_valeur>110</defenseSpe_valeur>
         <vitesse_valeur>76</vitesse_valeur>
+        <latitude>1.286998</latitude>
+        <longitude>103.853467</longitude>
     </pokemon>
     <pokemon id="108">
         <nom>Excelangue</nom>
@@ -2318,6 +2532,8 @@
         <attaqueSpe_valeur>60</attaqueSpe_valeur>
         <defenseSpe_valeur>75</defenseSpe_valeur>
         <vitesse_valeur>30</vitesse_valeur>
+        <latitude>43.079248</latitude>
+        <longitude>-79.079117</longitude>
     </pokemon>
     <pokemon id="109">
         <nom>Smogo</nom>
@@ -2339,6 +2555,8 @@
         <attaqueSpe_valeur>60</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>35</vitesse_valeur>
+        <latitude>46.200962</latitude>
+        <longitude>6.037377</longitude>
     </pokemon>
     <pokemon id="110">
         <nom>Smogogo</nom>
@@ -2360,6 +2578,8 @@
         <attaqueSpe_valeur>85</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>60</vitesse_valeur>
+        <latitude>40.756488</latitude>
+        <longitude>-73.965892</longitude>
     </pokemon>
     <pokemon id="111">
         <nom>Rhinocorne</nom>
@@ -2382,6 +2602,8 @@
         <attaqueSpe_valeur>30</attaqueSpe_valeur>
         <defenseSpe_valeur>30</defenseSpe_valeur>
         <vitesse_valeur>25</vitesse_valeur>
+        <latitude>61.167919</latitude>
+        <longitude>-150.037679</longitude>
     </pokemon>
     <pokemon id="112">
         <nom>Rhinoferos</nom>
@@ -2404,6 +2626,8 @@
         <attaqueSpe_valeur>45</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>40</vitesse_valeur>
+        <latitude>25.192537</latitude>
+        <longitude>55.270535</longitude>
     </pokemon>
     <pokemon id="113">
         <nom>Leveinard</nom>
@@ -2425,6 +2649,8 @@
         <attaqueSpe_valeur>35</attaqueSpe_valeur>
         <defenseSpe_valeur>105</defenseSpe_valeur>
         <vitesse_valeur>50</vitesse_valeur>
+        <latitude>37.827507</latitude>
+        <longitude>-122.424615</longitude>
     </pokemon>
     <pokemon id="114">
         <nom>Saquedeneu</nom>
@@ -2446,6 +2672,8 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>40</defenseSpe_valeur>
         <vitesse_valeur>60</vitesse_valeur>
+        <latitude>45.514651</latitude>
+        <longitude>25.369125</longitude>
     </pokemon>
     <pokemon id="115">
         <nom>Kangourex</nom>
@@ -2467,6 +2695,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>20.21457</latitude>
+        <longitude>-87.431663</longitude>
     </pokemon>
     <pokemon id="116">
         <nom>Hypotrempe</nom>
@@ -2488,6 +2718,8 @@
         <attaqueSpe_valeur>70</attaqueSpe_valeur>
         <defenseSpe_valeur>25</defenseSpe_valeur>
         <vitesse_valeur>60</vitesse_valeur>
+        <latitude>48.854179</latitude>
+        <longitude>2.354344</longitude>
     </pokemon>
     <pokemon id="117">
         <nom>Hypocean</nom>
@@ -2509,6 +2741,8 @@
         <attaqueSpe_valeur>95</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>85</vitesse_valeur>
+        <latitude>35.659139</latitude>
+        <longitude>139.731536</longitude>
     </pokemon>
     <pokemon id="118">
         <nom>Poissirene</nom>
@@ -2530,6 +2764,8 @@
         <attaqueSpe_valeur>35</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>63</vitesse_valeur>
+        <latitude>37.423954</latitude>
+        <longitude>-122.072161</longitude>
     </pokemon>
     <pokemon id="119">
         <nom>Poissoroy</nom>
@@ -2551,6 +2787,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>68</vitesse_valeur>
+        <latitude>37.421842</latitude>
+        <longitude>-122.081771</longitude>
     </pokemon>
     <pokemon id="120">
         <nom>Stari</nom>
@@ -2572,6 +2810,8 @@
         <attaqueSpe_valeur>70</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>85</vitesse_valeur>
+        <latitude>35.750357</latitude>
+        <longitude>139.739954</longitude>
     </pokemon>
     <pokemon id="121">
         <nom>Staross</nom>
@@ -2594,6 +2834,8 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>85</defenseSpe_valeur>
         <vitesse_valeur>115</vitesse_valeur>
+        <latitude>37.240941</latitude>
+        <longitude>-115.812198</longitude>
     </pokemon>
     <pokemon id="122">
         <nom>M.Mime</nom>
@@ -2616,6 +2858,8 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>120</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>-33.842677</latitude>
+        <longitude>151.241313</longitude>
     </pokemon>
     <pokemon id="123">
         <nom>Insecateur</nom>
@@ -2638,6 +2882,8 @@
         <attaqueSpe_valeur>55</attaqueSpe_valeur>
         <defenseSpe_valeur>80</defenseSpe_valeur>
         <vitesse_valeur>105</vitesse_valeur>
+        <latitude>51.413841</latitude>
+        <longitude>-116.226328</longitude>
     </pokemon>
     <pokemon id="124">
         <nom>Lippoutou</nom>
@@ -2660,6 +2906,8 @@
         <attaqueSpe_valeur>115</attaqueSpe_valeur>
         <defenseSpe_valeur>95</defenseSpe_valeur>
         <vitesse_valeur>95</vitesse_valeur>
+        <latitude>-3.065049</latitude>
+        <longitude>37.3608</longitude>
     </pokemon>
     <pokemon id="125">
         <nom>Elektek</nom>
@@ -2681,6 +2929,8 @@
         <attaqueSpe_valeur>95</attaqueSpe_valeur>
         <defenseSpe_valeur>85</defenseSpe_valeur>
         <vitesse_valeur>105</vitesse_valeur>
+        <latitude>48.861153</latitude>
+        <longitude>2.335207</longitude>
     </pokemon>
     <pokemon id="126">
         <nom>Magmar</nom>
@@ -2702,6 +2952,8 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>85</defenseSpe_valeur>
         <vitesse_valeur>93</vitesse_valeur>
+        <latitude>35.677922</latitude>
+        <longitude>139.625982</longitude>
     </pokemon>
     <pokemon id="127">
         <nom>Scarabrute</nom>
@@ -2723,6 +2975,8 @@
         <attaqueSpe_valeur>55</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>85</vitesse_valeur>
+        <latitude>35.658825</latitude>
+        <longitude>139.656121</longitude>
     </pokemon>
     <pokemon id="128">
         <nom>Tauros</nom>
@@ -2744,6 +2998,8 @@
         <attaqueSpe_valeur>40</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>110</vitesse_valeur>
+        <latitude>51.535224</latitude>
+        <longitude>-0.15611</longitude>
     </pokemon>
     <pokemon id="129">
         <nom>Magicarpe</nom>
@@ -2765,6 +3021,8 @@
         <attaqueSpe_valeur>15</attaqueSpe_valeur>
         <defenseSpe_valeur>20</defenseSpe_valeur>
         <vitesse_valeur>80</vitesse_valeur>
+        <latitude>-54.807381</latitude>
+        <longitude>-68.317153</longitude>
     </pokemon>
     <pokemon id="130">
         <nom>Leviator</nom>
@@ -2787,6 +3045,8 @@
         <attaqueSpe_valeur>60</attaqueSpe_valeur>
         <defenseSpe_valeur>100</defenseSpe_valeur>
         <vitesse_valeur>81</vitesse_valeur>
+        <latitude>31.599485</latitude>
+        <longitude>130.657665</longitude>
     </pokemon>
     <pokemon id="131">
         <nom>Lokhlass</nom>
@@ -2809,6 +3069,8 @@
         <attaqueSpe_valeur>85</attaqueSpe_valeur>
         <defenseSpe_valeur>95</defenseSpe_valeur>
         <vitesse_valeur>60</vitesse_valeur>
+        <latitude>35.860728</latitude>
+        <longitude>139.643255</longitude>
     </pokemon>
     <pokemon id="132">
         <nom>Metamorph</nom>
@@ -2830,6 +3092,8 @@
         <attaqueSpe_valeur>48</attaqueSpe_valeur>
         <defenseSpe_valeur>48</defenseSpe_valeur>
         <vitesse_valeur>48</vitesse_valeur>
+        <latitude>21.273383</latitude>
+        <longitude>-157.823852</longitude>
     </pokemon>
     <pokemon id="133">
         <nom>Evoli</nom>
@@ -2851,6 +3115,8 @@
         <attaqueSpe_valeur>45</attaqueSpe_valeur>
         <defenseSpe_valeur>65</defenseSpe_valeur>
         <vitesse_valeur>55</vitesse_valeur>
+        <latitude>36.112282</latitude>
+        <longitude>-115.174141</longitude>
     </pokemon>
     <pokemon id="134">
         <nom>Aquali</nom>
@@ -2872,6 +3138,8 @@
         <attaqueSpe_valeur>110</attaqueSpe_valeur>
         <defenseSpe_valeur>95</defenseSpe_valeur>
         <vitesse_valeur>65</vitesse_valeur>
+        <latitude>-0.672175</latitude>
+        <longitude>-90.545304</longitude>
     </pokemon>
     <pokemon id="135">
         <nom>Voltali</nom>
@@ -2893,6 +3161,8 @@
         <attaqueSpe_valeur>110</attaqueSpe_valeur>
         <defenseSpe_valeur>95</defenseSpe_valeur>
         <vitesse_valeur>130</vitesse_valeur>
+        <latitude>35.659634</latitude>
+        <longitude>139.722917</longitude>
     </pokemon>
     <pokemon id="136">
         <nom>Pyroli</nom>
@@ -2914,6 +3184,8 @@
         <attaqueSpe_valeur>95</attaqueSpe_valeur>
         <defenseSpe_valeur>110</defenseSpe_valeur>
         <vitesse_valeur>65</vitesse_valeur>
+        <latitude>35.657694</latitude>
+        <longitude>139.757427</longitude>
     </pokemon>
     <pokemon id="137">
         <nom>Porygon</nom>
@@ -2935,6 +3207,8 @@
         <attaqueSpe_valeur>85</attaqueSpe_valeur>
         <defenseSpe_valeur>75</defenseSpe_valeur>
         <vitesse_valeur>40</vitesse_valeur>
+        <latitude>35.605048</latitude>
+        <longitude>140.105206</longitude>
     </pokemon>
     <pokemon id="138">
         <nom>Amonita</nom>
@@ -2957,6 +3231,8 @@
         <attaqueSpe_valeur>90</attaqueSpe_valeur>
         <defenseSpe_valeur>55</defenseSpe_valeur>
         <vitesse_valeur>35</vitesse_valeur>
+        <latitude>37.413852</latitude>
+        <longitude>-122.082197</longitude>
     </pokemon>
     <pokemon id="139">
         <nom>Amonistar</nom>
@@ -2979,6 +3255,8 @@
         <attaqueSpe_valeur>115</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>55</vitesse_valeur>
+        <latitude>37.427839</latitude>
+        <longitude>-122.0797</longitude>
     </pokemon>
     <pokemon id="140">
         <nom>Kabuto</nom>
@@ -3001,6 +3279,8 @@
         <attaqueSpe_valeur>55</attaqueSpe_valeur>
         <defenseSpe_valeur>45</defenseSpe_valeur>
         <vitesse_valeur>55</vitesse_valeur>
+        <latitude>37.3324</latitude>
+        <longitude>-122.032423</longitude>
     </pokemon>
     <pokemon id="141">
         <nom>Kabutops</nom>
@@ -3023,6 +3303,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>80</vitesse_valeur>
+        <latitude>39.100633</latitude>
+        <longitude>-94.558436</longitude>
     </pokemon>
     <pokemon id="142">
         <nom>Ptera</nom>
@@ -3045,6 +3327,8 @@
         <attaqueSpe_valeur>60</attaqueSpe_valeur>
         <defenseSpe_valeur>75</defenseSpe_valeur>
         <vitesse_valeur>130</vitesse_valeur>
+        <latitude>33.810635</latitude>
+        <longitude>-117.922689</longitude>
     </pokemon>
     <pokemon id="143">
         <nom>Ronflex</nom>
@@ -3066,6 +3350,8 @@
         <attaqueSpe_valeur>65</attaqueSpe_valeur>
         <defenseSpe_valeur>110</defenseSpe_valeur>
         <vitesse_valeur>30</vitesse_valeur>
+        <latitude>53.3425</latitude>
+        <longitude>-6.274586</longitude>
     </pokemon>
     <pokemon id="144">
         <nom>Artikodin</nom>
@@ -3088,6 +3374,8 @@
         <attaqueSpe_valeur>95</attaqueSpe_valeur>
         <defenseSpe_valeur>125</defenseSpe_valeur>
         <vitesse_valeur>85</vitesse_valeur>
+        <latitude>43.262565</latitude>
+        <longitude>-2.935474</longitude>
     </pokemon>
     <pokemon id="145">
         <nom>Electhor</nom>
@@ -3110,6 +3398,8 @@
         <attaqueSpe_valeur>125</attaqueSpe_valeur>
         <defenseSpe_valeur>90</defenseSpe_valeur>
         <vitesse_valeur>100</vitesse_valeur>
+        <latitude>37.331006</latitude>
+        <longitude>-122.029684</longitude>
     </pokemon>
     <pokemon id="146">
         <nom>Sulfura</nom>
@@ -3132,6 +3422,8 @@
         <attaqueSpe_valeur>125</attaqueSpe_valeur>
         <defenseSpe_valeur>85</defenseSpe_valeur>
         <vitesse_valeur>90</vitesse_valeur>
+        <latitude>45.446492</latitude>
+        <longitude>12.34681</longitude>
     </pokemon>
     <pokemon id="147">
         <nom>Minidraco</nom>
@@ -3153,6 +3445,8 @@
         <attaqueSpe_valeur>50</attaqueSpe_valeur>
         <defenseSpe_valeur>50</defenseSpe_valeur>
         <vitesse_valeur>50</vitesse_valeur>
+        <latitude>42.377086</latitude>
+        <longitude>-71.116628</longitude>
     </pokemon>
     <pokemon id="148">
         <nom>Draco</nom>
@@ -3174,6 +3468,8 @@
         <attaqueSpe_valeur>70</attaqueSpe_valeur>
         <defenseSpe_valeur>70</defenseSpe_valeur>
         <vitesse_valeur>70</vitesse_valeur>
+        <latitude>37.823755</latitude>
+        <longitude>-122.370541</longitude>
     </pokemon>
     <pokemon id="149">
         <nom>Dracolosse</nom>
@@ -3196,6 +3492,8 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>100</defenseSpe_valeur>
         <vitesse_valeur>80</vitesse_valeur>
+        <latitude>29.977307</latitude>
+        <longitude>31.13249</longitude>
     </pokemon>
     <pokemon id="150">
         <nom>Mewtwo</nom>
@@ -3217,6 +3515,8 @@
         <attaqueSpe_valeur>154</attaqueSpe_valeur>
         <defenseSpe_valeur>90</defenseSpe_valeur>
         <vitesse_valeur>130</vitesse_valeur>
+        <latitude>0.811449</latitude>
+        <longitude>-176.618238</longitude>
     </pokemon>
     <pokemon id="151">
         <nom>Mew</nom>
@@ -3238,5 +3538,7 @@
         <attaqueSpe_valeur>100</attaqueSpe_valeur>
         <defenseSpe_valeur>100</defenseSpe_valeur>
         <vitesse_valeur>100</vitesse_valeur>
+        <latitude>-4.412142</latitude>
+        <longitude>-61.237758</longitude>
     </pokemon>
 </pokedex>
