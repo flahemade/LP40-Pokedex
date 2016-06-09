@@ -45,5 +45,36 @@
                     <li><a>Options</a></li>
                 </ul>
             </div>
+            <div>
+            <?php
+    require_once('TwitterAPIExchange.php');
+
+    /** Set access tokens here - see: https://dev.twitter.com/apps/ **/
+    $settings = array(
+        'oauth_access_token' => "739837424474415104-JB9GxxCihhcO6TO2RoBN2sdntopv5Rn",
+        'oauth_access_token_secret' => "z4pq7WASBNIXnL6H9dcIFdZ4zvyzQHzYyuS1wEEEQDamC",
+        'consumer_key' => "Zv1zunV1orw9MIECfhr2JNfBI",
+        'consumer_secret' => "P0Xkl03JSp2VO4dHqPyUtRQ7lqzuO4NXIfQ6ARL8S3WUvVEY1X"
+    );
+
+    $url = 'https://api.twitter.com/1.1/statuses/user_timeline.json';
+    $getfield = '?screen_name=ProfOak&include_rts=false&count=10';
+    $requestMethod = 'GET';
+    $twitter = new TwitterAPIExchange($settings);
+    $strJson =  $twitter->setGetfield($getfield)
+                 ->buildOauth($url, $requestMethod)
+                 ->performRequest();
+
+    echo "\n";
+         
+    $arrTweets = json_decode($strJson,true);
+    //var_dump($arrTweets);
+
+    foreach ($arrTweets as $tweet){
+        echo $tweet["user"]["name"]. " : ";
+        echo $tweet["text"]."<br/>";
+    }
+?>
+            </div>
         </body>
     </html>
