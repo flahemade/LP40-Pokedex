@@ -8,7 +8,7 @@
         		/** Récupération de l'ID avec la méthode POST **/
         		$id= $_POST['id'];
 
-        		/** OUverture du xml et recherche du pokemon **/
+        		/** Ouverture du xml et recherche du pokemon **/
         		$pokedex = new DomDocument();
         		$pokedex->validateOnParse = true;
     			$pokedex->load('pokedex.xml');
@@ -77,6 +77,11 @@
 
         		/** Vitesse **/
         		echo "<span id='vitesse_valeur'>Vitesse : ".$pokemon->getElementsByTagName("vitesse_valeur")->item(0)->nodeValue."</span></br>";
+
+        		/** Localisation du pokemon **/
+        		echo "<form action='location.php' method='POST'>";
+        		echo "<input type='hidden' name='id' value='".$pokemon->getAttribute("id")."' />";
+                echo "<input type='submit' value='Localisation de ".$pokemon->getElementsByTagName("nom")->item(0)->nodeValue."'/></form>";
 
         		/** Lien retour **/
         		echo "</br><a href='index.php'><b>Retour<b></a></br>";
