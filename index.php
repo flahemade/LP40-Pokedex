@@ -23,9 +23,9 @@
                         foreach ($pokemons as $pokemon) {
                             echo "<form action='pokemon.php' method='POST'>";
                             echo "<span id='index'>".$pokemon->getAttribute("id")." : </span>";
+                            echo "<input type='submit' value='".$pokemon->getElementsByTagName("nom")->item(0)->nodeValue."'/>";
                             echo "<input type='hidden' name='id' value='".$pokemon->getAttribute("id")."' />";
-                            echo "<img src='https://www.pokebip.com/pokedex/images/sugimori/".(int)$pokemon->getAttribute("id").".png' class='imageGauche' alt='Bulbizarre' />";
-                            echo "<input type='submit' value='".$pokemon->getElementsByTagName("nom")->item(0)->nodeValue."'/></form>";
+                            echo "<img src='https://www.pokebip.com/pokedex/images/sugimori/".(int)$pokemon->getAttribute("id").".png' class='imageGauche' alt='Bulbizarre' /></form>";
                         }
                     ?>
                     <ul class="list_pokemon">
