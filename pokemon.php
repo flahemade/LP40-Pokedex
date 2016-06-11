@@ -1,10 +1,5 @@
-<!DOCTYPE HTML>
-	<html>
-		<head>
-            <title>Pokedex - LP40</title>
-        </head>
-        <body>
-        	<?php
+<div id="content">
+<?php
         		/** Récupération de l'ID avec la méthode POST **/
         		$id= $_POST['id'];
 
@@ -15,7 +10,7 @@
     			$pokemon = $pokedex->getElementsByTagName("pokemon")->item($id-1);
 
     			/** Titre **/
-        		echo "<h1>".$pokemon->getElementsByTagName("nom")->item(0)->nodeValue."</h1>";
+        		echo "<h2>".$pokemon->getElementsByTagName("nom")->item(0)->nodeValue."</h2>";
 
         		/** Image **/
         		echo "<img src='https://www.pokebip.com/pokedex/images/sugimori/".(int)$id.".png' class='imageGauche' alt='Bulbizarre' /></br>";
@@ -86,8 +81,5 @@
 
         		/** Lien retour **/
         		echo "</br><a href='index.php'><b>Retour<b></a></br>";
-        	?> 
-        
-        </body>
-
-	</html>
+        	?>
+			</div>
