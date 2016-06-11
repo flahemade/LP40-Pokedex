@@ -9,25 +9,53 @@
 
         <head>
             <title>Pokedex - LP40</title>
-            <script src="//code.jquery.com/jquery-1.12.0.min.js"  type="text/javascript"></script>
-            <script src="js/interactions.js"  type="text/javascript"></script>
-            <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css" />
-            <script src="css/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
             <link rel="stylesheet" href="css/normalize.css" />
             <link rel="stylesheet" href="css/style.css" />
+            <script>// Ajax informations
+            function validate(id) {
+                console.log('fion');
+                var http = new XMLHttpRequest();
+                var url = "pokemon.php";
+                var params = "id="+id;
+                http.open("POST", url, true);
+     
+                http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                http.setRequestHeader("Content-length", params.length);
+                http.setRequestHeader("Connection", "close");
+                
+                http.onreadystatechange = function() {
+                    if(http.readyState == 4 && http.status == 200) {
+                        
+                        var node = document.getElementById('infos');
+                        while (node.hasChildNodes()) {
+                            node.removeChild(node.firstChild);
+                        }
+                        
+                        var text = http.responseText;
+                        var infos = document.getElementById('infos');
+                        var div = document.createElement('div');
+                        div.innerHTML = text ;
+                        
+                        infos.appendChild(div);
+                        console.log(text);
+                    }
+                }
+                http.send(params);
+            }
+    </script>
         </head>
         <body>
-            <h1><img src="img/pokeball.png" alt="pokeball"/>Pokédex</h1>
+            <h1 id='title'><img src="img/pokeball.png" alt="pokeball"/>Pokédex</h1>
             <div class="clear"></div>
             <div class="interface box row">
-                <div class="list col-md-4 col-xs-6 col-md-offset-1 box">
+                <div class="list box">
                     <?php
                         foreach ($pokemons as $pokemon) {
-                            echo "<form action='pokemon.php' method='POST'>";
+                            echo "<form id='click' action='pokemon.php' method='POST' onsubmit=\"event.preventDefault(); return validate(".$pokemon->getAttribute("id").");\">";
                             echo "<span id='index'>".$pokemon->getAttribute("id")." : </span>";
-                            echo "<input type='submit' value='".$pokemon->getElementsByTagName("nom")->item(0)->nodeValue."'/>";
-                            echo "<input type='hidden' name='id' value='".$pokemon->getAttribute("id")."' />";
-                            echo "<img src='https://www.pokebip.com/pokedex/images/sugimori/".(int)$pokemon->getAttribute("id").".png' class='imageGauche' alt='Bulbizarre' /></form>";
+                            echo "<input type='submit'  value='".$pokemon->getElementsByTagName("nom")->item(0)->nodeValue."'/>";
+                            echo "<img src='https://www.pokebip.com/pokedex/images/sugimori/".(int)$pokemon->getAttribute("id").".png' class='imageGauche' alt='Bulbizarre' />";
+                            echo "</form>";
                         }
                     ?>
                     <ul class="list_pokemon">
@@ -37,7 +65,7 @@
                         <div id="indicator"></div>
                     </div>
                 </div>
-                <div class="infos col-md-5 col-xs-6 col-md-offset-1 box">
+                <div class="infos box" id="infos">
                 </div>
             </div>
             <div class="clear"></div>

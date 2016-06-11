@@ -17,9 +17,18 @@ li{
 }
 a{
     cursor:pointer;
+    cursor :pointer;
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 5px;
+    background-color:#2c3e50;
+    border: 1px solid white;
+    color:white;
 }
 a:hover{
     text-decoration: none;
+    background-image:linear-gradient(grey,#2c3e50,grey);
+    color:white;
 }
 .box{
     border-radius : 5px;

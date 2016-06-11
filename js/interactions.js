@@ -1,17 +1,22 @@
     // Ajax informations
-    $(document).ready(function(){
-       $('.list form').submit(function(event){
-        event.preventDefault();
-          var $form = $( this ),
-            id = $form.find( "input[name='id']" ).val(),
-            url = $form.attr('action');
-            console.log(url+" : "+id);
-            var posting = $.post( url, { id: id } );
-            
-              posting.done(function( data ) {
-                var content = data;
-                $( ".infos" ).empty().append( content );
-                console.log(content);
-              });
-       });
-    });
+    var click = document.getElementById('.click');
+    click.addEventListener('onsubmit', function(event) {
+                event.preventDefault();
+                var http = new XMLHttpRequest();
+                var url = "pokemon.php";
+                var parent = this.parentElement;
+                var id = parent.children[2].getAttribute("name"); 
+                var params = "id="+id;
+                http.open("POST", url, true);
+     
+                http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                http.setRequestHeader("Content-length", params.length);
+                http.setRequestHeader("Connection", "close");
+                
+                http.onreadystatechange = function() {
+                    if(http.readyState == 4 && http.status == 200) {
+                        alert(http.responseText);
+                    }
+                }
+                http.send(params);
+        });
