@@ -8,22 +8,19 @@
 body,html{
     height: 100%;
     margin: 0 auto;
-    background-color: red;
 }
 li{
     list-style-type: none;
 }
-.col_40{
-    width:38%;
-    padding:1% 0 0 1%;
-}
-.col_60{
-    width:58%;
-    padding:1% 0 0 1%;
-}
 .clear{
     clear: both;
-    height: 5%;
+}
+a{
+    cursor:pointer;
+}
+a:hover{
+    text-decoration: none;
 }
 .box{
+    border-radius : 5px;
 }

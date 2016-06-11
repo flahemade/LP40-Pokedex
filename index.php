@@ -9,16 +9,18 @@
 
         <head>
             <title>Pokedex - LP40</title>
-            <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
-            <script src="js/interactions.js"></script>
-            <link rel="stylesheet" href="css/normalize.css">
-            <link rel="stylesheet" href="css/style.css">
+            <script src="//code.jquery.com/jquery-1.12.0.min.js"  type="text/javascript"></script>
+            <script src="js/interactions.js"  type="text/javascript"></script>
+            <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css" />
+            <script src="css/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+            <link rel="stylesheet" href="css/normalize.css" />
+            <link rel="stylesheet" href="css/style.css" />
         </head>
         <body>
-            <h1 class="box"><img src="img/pokeball.png" alt="pokeball"/>Pokedex</h1>
+            <h1><img src="img/pokeball.png" alt="pokeball"/>Pokédex</h1>
             <div class="clear"></div>
-            <div class="interface box">
-                <div class="list col_40 box">
+            <div class="interface box row">
+                <div class="list col-md-4 col-xs-6 col-md-offset-1 box">
                     <?php
                         foreach ($pokemons as $pokemon) {
                             echo "<form action='pokemon.php' method='POST'>";
@@ -35,7 +37,7 @@
                         <div id="indicator"></div>
                     </div>
                 </div>
-                <div class="infos col_60 box">
+                <div class="infos col-md-5 col-xs-6 col-md-offset-1 box">
                 </div>
             </div>
             <div class="clear"></div>
