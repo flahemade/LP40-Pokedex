@@ -13,7 +13,7 @@
             <link rel="stylesheet" href="css/style.css" />
             <script>// Ajax informations
             function validate(id) {
-                console.log('fion');
+                console.log(id);
                 var http = new XMLHttpRequest();
                 var url = "pokemon.php";
                 var params = "id="+id;
@@ -37,7 +37,6 @@
                         div.innerHTML = text ;
                         
                         infos.appendChild(div);
-                        console.log(text);
                     }
                 }
                 http.send(params);
@@ -51,10 +50,12 @@
                 <div class="list box">
                     <?php
                         foreach ($pokemons as $pokemon) {
-                            echo "<form id='click' action='pokemon.php' method='POST' onsubmit=\"event.preventDefault(); return validate(".$pokemon->getAttribute("id").");\">";
-                            echo "<span id='index'>".$pokemon->getAttribute("id")." : </span>";
+                            $id = $pokemon->getAttribute("id");
+                            $id = ltrim($id, '0');
+                            echo "<form id='click' action='pokemon.php' method='POST' onsubmit=\"event.preventDefault(); return validate(".$id.");\">";
+                            echo "<span id='index'>".$id." : </span>";
                             echo "<input type='submit'  value='".$pokemon->getElementsByTagName("nom")->item(0)->nodeValue."'/>";
-                            echo "<img src='https://www.pokebip.com/pokedex/images/sugimori/".(int)$pokemon->getAttribute("id").".png' class='imageGauche' alt='Bulbizarre' />";
+                            echo "<img src='https://www.pokebip.com/pokedex/images/sugimori/".$id.".png' class='imageGauche' alt='Bulbizarre' />";
                             echo "</form>";
                         }
                     ?>
