@@ -70,13 +70,7 @@
                 </div>
             </div>
             <div class="clear"></div>
-            <div class="menu box">
-                <ul>
-                    <li><a>Profil dresseur</a></li>
-                    <li><a>Options</a></li>
-                </ul>
-            </div>
-            <div>
+            <div class="twitter">
             <?php
     require_once('TwitterAPIExchange.php');
 
