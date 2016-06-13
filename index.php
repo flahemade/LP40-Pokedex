@@ -60,7 +60,7 @@
                         }
                     ?>
                     <ul class="list_pokemon">
-                        <li class="pokemon_display_name"><span class="number"></span><a></a></li>
+                        <li class="pokemon_display_name"><span class="number"></span></li>
                     </ul>
                     <div class="scroller">
                         <div id="indicator"></div>
