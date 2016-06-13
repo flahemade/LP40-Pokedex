@@ -96,8 +96,14 @@
     //var_dump($arrTweets);
 
     foreach ($arrTweets as $tweet){
-        echo $tweet["user"]["name"]. " : ";
-        echo $tweet["text"]."<br/>";
+        echo "<div class=\"tweet\">";
+        echo "<p>";
+        echo "<img src=\"".$tweet["user"]["profile_image_url"]."\"/>";
+        echo "@";
+        echo $tweet["user"]["name"]." : ";
+        echo $tweet["text"];
+        echo"</p>";
+        echo "</div>";
     }
 ?>
             </div>
