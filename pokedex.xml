@@ -1887,8 +1887,8 @@
         <taille>0.3 m</taille>
         <poids>6.0 kg</poids>
         <taux_capture>190</taux_capture>
-        <experience_max>70</experience_max>
-        <bonheur>1000000</bonheur>
+        <experience_max>1000000</experience_max>
+        <bonheur>70</bonheur>
         <evolutions>
             <evolution>Magneton</evolution>
         </evolutions>
@@ -1911,8 +1911,8 @@
         <taille>1.0 m</taille>
         <poids>60.0 kg</poids>
         <taux_capture>60</taux_capture>
-        <experience_max>70</experience_max>
-        <bonheur>1000000</bonheur>
+        <experience_max>1000000</experience_max>
+        <bonheur>70</bonheur>
         <evolutions>
             <evolution>Pas d'évolution</evolution>
         </evolutions>
@@ -2334,8 +2334,8 @@
         <taille>0.5 m</taille>
         <poids>10.4 kg</poids>
         <taux_capture>190</taux_capture>
-        <experience_max>70</experience_max>
-        <bonheur>1000000</bonheur>
+        <experience_max>1000000</experience_max>
+        <bonheur>70</bonheur>
         <evolutions>
             <evolution>Electrode</evolution>
         </evolutions>
@@ -2357,8 +2357,8 @@
         <taille>1.2 m</taille>
         <poids>66.6 kg</poids>
         <taux_capture>60</taux_capture>
-        <experience_max>70</experience_max>
-        <bonheur>1000000</bonheur>
+        <experience_max>1000000</experience_max>
+        <bonheur>70</bonheur>
         <evolutions>
             <evolution>Pas d'évolution</evolution>
         </evolutions>
@@ -2798,8 +2798,8 @@
         <taille>0.8 m</taille>
         <poids>34.5 kg</poids>
         <taux_capture>225</taux_capture>
-        <experience_max>70</experience_max>
-        <bonheur>1250000</bonheur>
+        <experience_max>1250000</experience_max>
+        <bonheur>70</bonheur>
         <evolutions>
             <evolution>Staross</evolution>
         </evolutions>
@@ -2822,8 +2822,8 @@
         <taille>1.1 m</taille>
         <poids>80.0 kg</poids>
         <taux_capture>60</taux_capture>
-        <experience_max>70</experience_max>
-        <bonheur>1250000</bonheur>
+        <experience_max>1250000</experience_max>
+        <bonheur>70</bonheur>
         <evolutions>
             <evolution>Pas d'évolution</evolution>
         </evolutions>
@@ -3080,8 +3080,8 @@
         <taille>0.3 m</taille>
         <poids>4.0 kg</poids>
         <taux_capture>35</taux_capture>
-        <experience_max>70</experience_max>
-        <bonheur>1000000</bonheur>
+        <experience_max>1000000</experience_max>
+        <bonheur>70</bonheur>
         <evolutions>
             <evolution>Pas d'évolution</evolution>
         </evolutions>
@@ -3197,8 +3197,8 @@
         <taille>0.8 m</taille>
         <poids>36.5 kg</poids>
         <taux_capture>45</taux_capture>
-        <experience_max>70</experience_max>
-        <bonheur>1000000</bonheur>
+        <experience_max>1000000</experience_max>
+        <bonheur>70</bonheur>
         <evolutions>
             <evolution>Pas d'évolution</evolution>
         </evolutions>
@@ -3364,8 +3364,8 @@
         <taille>1.7 m</taille>
         <poids>55.4 kg</poids>
         <taux_capture>3</taux_capture>
-        <experience_max>35</experience_max>
-        <bonheur>1250000</bonheur>
+        <experience_max>1250000</experience_max>
+        <bonheur>35</bonheur>
         <evolutions>
             <evolution>Pas d'évolution</evolution>
         </evolutions>
@@ -3388,8 +3388,8 @@
         <taille>1.6 m</taille>
         <poids>52.6 kg</poids>
         <taux_capture>3</taux_capture>
-        <experience_max>35</experience_max>
-        <bonheur>1250000</bonheur>
+        <experience_max>1250000</experience_max>
+        <bonheur>35</bonheur>
         <evolutions>
             <evolution>Pas d'évolution</evolution>
         </evolutions>
@@ -3412,8 +3412,8 @@
         <taille>2.0 m</taille>
         <poids>60.0 kg</poids>
         <taux_capture>3</taux_capture>
-        <experience_max>35</experience_max>
-        <bonheur>1250000</bonheur>
+        <experience_max>1250000</experience_max>
+        <bonheur>35</bonheur>
         <evolutions>
             <evolution>Pas d'évolution</evolution>
         </evolutions>
@@ -3505,8 +3505,8 @@
         <taille>2.0 m</taille>
         <poids>122.0 kg</poids>
         <taux_capture>3</taux_capture>
-        <experience_max>0</experience_max>
-        <bonheur>1250000</bonheur>
+        <experience_max>1250000</experience_max>
+        <bonheur>0</bonheur>
         <evolutions>
             <evolution>Pas d'évolution</evolution>
         </evolutions>
