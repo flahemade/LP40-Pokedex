@@ -60,7 +60,7 @@
                         }
                     ?>
                     <ul class="list_pokemon">
-                        <li class="pokemon_display_name"><span class="number"></span><a></a></li>
+                        <li class="pokemon_display_name"><span class="number"></span></li>
                     </ul>
                     <div class="scroller">
                         <div id="indicator"></div>
@@ -96,8 +96,14 @@
     //var_dump($arrTweets);
 
     foreach ($arrTweets as $tweet){
-        echo $tweet["user"]["name"]. " : ";
-        echo $tweet["text"]."<br/>";
+        echo "<div class=\"tweet\">";
+        echo "<p>";
+        echo "<img src=\"".$tweet["user"]["profile_image_url"]."\"/>";
+        echo "@";
+        echo $tweet["user"]["name"]." : ";
+        echo $tweet["text"];
+        echo"</p>";
+        echo "</div>";
     }
 ?>
             </div>

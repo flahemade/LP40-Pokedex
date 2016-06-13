@@ -78,8 +78,6 @@
                 echo "<b>Google Maps pokemon challenge : </b>";
         		echo "<input type='hidden' name='id' value='".$pokemon->getAttribute("id")."' />";
                 echo "<input type='submit' value='Localisation de ".$pokemon->getElementsByTagName("nom")->item(0)->nodeValue."'/></form>";
-
-        		/** Lien retour **/
-        		echo "</br><a href='index.php'><b>Retour<b></a></br>";
+				
         	?>
 			</div>
